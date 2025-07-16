@@ -45,7 +45,7 @@ Googleなどの検索結果に自動表示されるAI要約やAI生成の回答�
 
 - 🧑‍🎤 制作協力：ChatGPT（コード設計・補助）
 - 🎙️ 拡張アイデア・公開：**ano(あの)**
-- 🔗 [https://sites.google.com/view/kurodarin-voice-samples/](https://x.com/anone_anonymous)
+- 🔗 [https://x.com/anone_anonymous](https://x.com/anone_anonymous)
 
 ---
 
