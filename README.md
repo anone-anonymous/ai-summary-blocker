@@ -1,0 +1,2 @@
+# ai-summary-blocker
+Googleなどの検索結果に自動表示されるAI概要や任意のワードを含む検索結果を非表示にするためのChrome拡張機能
